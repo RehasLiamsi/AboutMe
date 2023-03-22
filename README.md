@@ -3,7 +3,7 @@
 
 <body>
 
-<h1>Hello dear visitor!<img src = "https://media.tenor.com/evivBXZwCggAAAAC/hola-hi.gif" alt="smiling emoji waving" width="80"/></h1>
+<h1>Hello dear visitor!<img src = "https://media.tenor.com/evivBXZwCggAAAAC/hola-hi.gif" alt="smiling emoji waving" width="50"/></h1>
 
 <p>This is a paragraph.</p>
 
