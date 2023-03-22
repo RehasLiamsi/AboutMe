@@ -1,3 +1,5 @@
+<DOCTYPE html>
+  <html>
 <head>
 <style>
 img {
@@ -45,3 +47,5 @@ These are some of the skills that I have:
 - Git
 - HTML
 - CSS
+    
+  </html>
