@@ -11,37 +11,26 @@
 <!-- About Me -->
 ## About Me
 
-Hi there! I'm [Your Name], and I'm a passionate web developer. I have experience in HTML, CSS, JavaScript, and more. I love to learn and explore new things, and I'm always looking for new opportunities to challenge myself.
+Hi there! I'm Saher, a Java developer in the making. I am learning Java, Relational databases, tests using JUnit and Mockito and much more. I have previous experience in HTML, CSS, C# and more. I love to learn and explore new things, and I'm always looking for new opportunities to challenge myself.
 
 <!-- Projects -->
 ## Projects
 
 Here are some of the projects that I've worked on:
 
-- [Project 1](https://github.com/your-username/project-1)
-- [Project 2](https://github.com/your-username/project-2)
-- [Project 3](https://github.com/your-username/project-3)
+- [Project 1](https://github.com/fungover/haze)
+- [Project 2](https://github.com/ithsjavagroupd/project)
 
 <!-- Skills -->
 ## Skills
 
 These are some of the skills that I have:
 
+- Java
+- Databases
 - HTML
 - CSS
-- JavaScript
-- React
-- Node.js
-
-<!-- Contact -->
-## Contact Me
-
-If you'd like to get in touch, you can reach me at [your-email@example.com](mailto:your-email@example.com). Let's connect and chat!
-
-<!-- Footer -->
-<footer align="center">
-  Made with ❤️ by [Your Name] | [View My Portfolio](https://your-portfolio.com)
-</footer>
+- Git
 
 <!-- Styles -->
 <style>
