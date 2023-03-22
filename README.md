@@ -7,6 +7,7 @@ img {
 }
 </style>
 </head>
+    <body>
 <!-- Header -->
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
@@ -47,5 +48,5 @@ These are some of the skills that I have:
 - Git
 - HTML
 - CSS
-    
+    </body>
   </html>
