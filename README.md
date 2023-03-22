@@ -4,15 +4,14 @@
 <!-- About Me -->
 ## About Me
 
-Hi there! I'm Saher, a Java developer in the making. I am learning Java, Relational databases, tests using JUnit and Mockito and much more. I have previous experience in HTML, CSS, C# and more. I love to learn and explore new things, and I'm always looking for new opportunities to challenge myself.
+Hi there! I'm Saher, a Java developer in the making.
 
-<!-- Projects -->
-## Projects
 
-Here are some of the projects that I've worked on:
+<div align="center">
 
-- [Haze](https://github.com/fungover/haze)
-- [Java Enterprise Project](https://github.com/ithsjavagroupd/project)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RehasLiamsi&theme=black-ice)](https://git.io/streak-stats)
+
+</div>
 
 <!-- Skills -->
 ## Skills
