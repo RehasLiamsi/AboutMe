@@ -18,8 +18,8 @@ Hi there! I'm Saher, a Java developer in the making. I am learning Java, Relatio
 
 Here are some of the projects that I've worked on:
 
-- [Project 1](https://github.com/fungover/haze)
-- [Project 2](https://github.com/ithsjavagroupd/project)
+- [Haze](https://github.com/fungover/haze)
+- [Java Enterprise Project](https://github.com/ithsjavagroupd/project)
 
 <!-- Skills -->
 ## Skills
@@ -33,19 +33,4 @@ These are some of the skills that I have:
 - Git
 
 <!-- Styles -->
-<style>
-  h1 {
-    font-size: 3rem;
-    color: #0077B5;
-  }
-  
-  p {
-    font-size: 1.2rem;
-  }
-  
-  footer {
-    margin-top: 2rem;
-    font-size: 1.2rem;
-    color: #555;
-  }
-</style>
+
