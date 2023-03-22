@@ -1,17 +1,16 @@
-<!-- Header -->
 <h1 align="center">Welcome to My GitHub Profile</h1>
+
+<div align="center">
+  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc5OGY0N2ZlMDE4MzAxYjM0Mzk3NzdhMWRkNGVkMGEwYjg1NTRlYSZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="female-coder">
+  </div>
+<!-- Header -->
+
 
 <!-- About Me -->
 ## About Me
 
 Hi there! I'm Saher, a Java developer in the making.
 
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RehasLiamsi&theme=black-ice)](https://git.io/streak-stats)
-
-</div>
 
 <!-- Skills -->
 ## Skills
