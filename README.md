@@ -9,7 +9,7 @@
 <!-- About Me -->
 ## About Me
 
-Hi there! I'm Saher, a Java developer in the making.
+Hi there! I'm Saher, a Java developer with an interest in relational databases and web development. Welcome to my GitHub, where I post all my passion projects.
 
 
 <!-- Skills -->
